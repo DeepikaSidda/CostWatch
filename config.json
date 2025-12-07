@@ -1,0 +1,6 @@
+{
+  "budget": 10.0,
+  "refresh_interval": 30,
+  "use_simulated_data": false,
+  "display_month": "current"
+}
